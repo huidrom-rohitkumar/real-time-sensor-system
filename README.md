@@ -97,6 +97,10 @@ CMD:IDLE
 
 ---
 
+
+For detailed architecture and execution flow, see:  
+👉 docs/architecture_and_working.md
+
 ## Sample Output
 
 ```

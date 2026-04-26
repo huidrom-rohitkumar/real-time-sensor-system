@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
-const char* ssid = "YOUR_WIFI";
-const char* password = "YOUR_PASS";
-const char* serverIP = "YOUR_LAPTOP_IP";
+const char* ssid = "YOUR_WIFI";  // wifi id 
+const char* password = "YOUR_PASS"; // wifi password
+const char* serverIP = "YOUR_LAPTOP_IP"; // laptop ip address
 const int serverPort = 5000;
 
 WiFiClient client;
